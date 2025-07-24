@@ -2,7 +2,9 @@
 <p align="center">
   <a href="https://git.io/typing-svg"></a>
 </p>
-
+<div>
+  <p class="text-green-300">NOME</p>
+</div>
 <div align="center" class="bg-gray-300" style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitongoviskDev&show_icons=true&locale=en&theme=tokyonight&rank_icon=github&card_width=100" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitongoviskDev&theme=tokyonight&layout=compact&card_width=100">
