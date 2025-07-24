@@ -4,8 +4,8 @@
 </p>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitogoviskDev&show_icons=true&locale=en&theme=tokyonight&rank_icon=github&card_width=100" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitogoviskDev&theme=tokyonight&layout=compact&card_width=100">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitongoviskDev&show_icons=true&locale=en&theme=tokyonight&rank_icon=github&card_width=100" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitongoviskDev&theme=tokyonight&layout=compact&card_width=100">
 </div>
 
 ### Tecnologias
