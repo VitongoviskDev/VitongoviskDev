@@ -1,27 +1,29 @@
-<!-- Typing SVG -->
-<p align="center">
-  <a href="https://git.io/typing-svg"></a>
-</p>
-<div>
-  <p style="background-color: #00ffff">NOME</p>
-</div>
-<div align="center" class="bg-gray-300" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitongoviskDev&show_icons=true&locale=en&theme=tokyonight&rank_icon=github&card_width=100" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitongoviskDev&theme=tokyonight&layout=compact&card_width=100">
-</div>
+# 👋 Olá! Eu sou [Seu Nome]
 
-### Tecnologias
+Sou um profissional apaixonado por **tecnologia, desenvolvimento de software e gestão de infraestrutura de TI**. Ao longo da minha trajetória, atuei em projetos que vão desde o **gerenciamento de ativos de TI e fluxos operacionais** até o desenvolvimento de **aplicações desktop, web e jogos**.
 
-<div style="display: inline_block">
-  <img align="center" alt="Lucas-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lucas-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
-</div>
-  
-### Contato
+## 🚀 O que estou desenvolvendo atualmente?
+- **NeoInfraTracker (NIT)**: Sistema de gestão de inventário e infraestrutura de TI, focado em otimizar o controle de equipamentos e demandas da equipe. O projeto abrange desde a modelagem de processos internos até a interface do usuário.
+- **Menu Flutuante em Electron**: Um projeto pessoal usando **JavaScript puro (sem frameworks)** para criar menus contextuais leves e flexíveis em desktop apps.
+- **Game Development com Unity**: Desenvolvendo jogos 3D e sistemas de UI, com foco em gestão de inventário, status de personagens e interações dinâmicas, inspirado em títulos como **Sword Art Online (SAO)**.
 
-<div> 
-  <a href="https://www.linkedin.com/in/vitor-campos-b22a7b263/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## 💡 Outras iniciativas
+- Produção de **vídeos sobre desenvolvimento** (HTML, CSS, JavaScript) com o objetivo de compartilhar conhecimento e criar uma fonte de renda extra.
+- Criação de um **curso básico de Web Development** com 10 aulas introdutórias.
+
+## 🛠️ Tecnologias & Skills
+- **Linguagens**: JavaScript, C#, HTML, CSS
+- **Frameworks e Plataformas**: Electron, Unity
+- **Infraestrutura & Gestão**: Controle de inventário, fluxos operacionais (Pulmão), IOPs
+- **Ferramentas**: Git, Figma, Trello
+- **Soft Skills**: Documentação técnica, Análise de processos, Ensino de tecnologia
+
+## 🌱 O que estou buscando?
+- Oportunidades para aplicar minha experiência em **projetos de desenvolvimento de software e infraestrutura**
+- Networking com profissionais da área para troca de ideias e evolução contínua
+- Compartilhar meu conhecimento e aprender com a comunidade de tecnologia
+
+---
+
+🔗 Vamos conversar?  
+📩 [Seu e-mail] | 💼 [LinkedIn URL]
